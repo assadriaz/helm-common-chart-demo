@@ -1,0 +1,5 @@
+{{- include "common-configmap.configmap" (list . "helm-common-chart-demo.configmap") -}}
+{{- define "helm-common-chart-demo.configmap" -}}
+data:
+  myvalue: "Hello World"
+{{- end -}}

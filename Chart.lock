@@ -1,0 +1,6 @@
+dependencies:
+- name: common-configmap
+  repository: https://assadriaz.github.io/helm-common-chart
+  version: 0.1.0
+digest: sha256:035c747f14d4794ca970a7bc5309028fd7eb445aaf9e98df9689c0176c30a71a
+generated: "2021-12-08T13:51:01.483952+01:00"
