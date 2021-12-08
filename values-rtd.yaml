@@ -4,7 +4,7 @@
 
 replicaCount: 1
 configMap:
-    data: "hello something"
+    data: "hello rtd"
 image:
   repository: nginx
   pullPolicy: IfNotPresent
